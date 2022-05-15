@@ -1,9 +1,10 @@
 /**
  * @file controllservo.ino
- * @author Rohankumar hubballi
+ * @author sumalata Bidarkundi
  * @brief 
  * @version 0.1
- * @date 2022-03-08
+ * @date 2022-04-20
+ 
  * 
  * @copyright Copyright (c) 2022
  * 
